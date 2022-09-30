@@ -19,5 +19,7 @@ Attach player to platform (partial outside code used)
 
 base project provided by the TA was used to fix camera and animation issues
 
+Please check the Word Document for details.
+
 https://answers.unity.com/questions/12083/how-to-get-a-character-to-move-with-a-moving-platf.html
 https://answers.unity.com/questions/1605810/obstacles-movement-please-help.html
